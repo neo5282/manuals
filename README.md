@@ -17,4 +17,4 @@ push vs fetch
 
 [구글](https://google.com)
 
-[이미지 연습](https://3.bp.blogspot.com/-Xk9tFOWlpWY/WD5vm0V4aQI/AAAAAAABBKc/WOUZnKqtHwwb4AedWZvE9qDxIW490I8TwCLcB/s1600/25.jpg)
+![이미지 연습](https://3.bp.blogspot.com/-Xk9tFOWlpWY/WD5vm0V4aQI/AAAAAAABBKc/WOUZnKqtHwwb4AedWZvE9qDxIW490I8TwCLcB/s1600/25.jpg)
